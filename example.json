@@ -1,0 +1,21 @@
+{
+    "background" : "base.jpg",
+    "dimensions" : [1280, 720],
+    "captions" : [
+        {
+            "font" : "ROCKB.TTF",
+            "text" : "cmartello presents...",
+            "size" : 48,
+            "x" : 32,
+            "y" : 32,
+            "color" : [255,255,255]
+        }
+    ],
+    "labels" : {
+        "font" : "ROCKB.TTF",
+        "text_list" : ["Episode 1", "Episode 2", "Episode 3"],
+        "size" : 64,
+        "y" : 540,
+        "color" : [255, 255, 255]
+    }
+}
